@@ -1,3 +1,12 @@
 [submodule "lib/jsmn"]
 	path = lib/jsmn
 	url = https://github.com/zserge/jsmn.git
+[submodule "lib/lua"]
+	path = lib/lua
+	url = https://github.com/LuaDist/lua.git
+[submodule "lib/libuv"]
+	path = lib/libuv
+	url = https://github.com/libuv/libuv.git
+[submodule "lib/mbedTLS"]
+	path = lib/mbedTLS
+	url = https://github.com/ARMmbed/mbedtls.git
